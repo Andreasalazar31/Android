@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InterfazAndroid</string>
+    <string name="show_hide_password">Mostrar/Ocultar Contraseña</string>
+
+</resources>
